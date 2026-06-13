@@ -1,0 +1,35 @@
+ASSETS FOLDER – Nevolyra
+========================
+
+Place the following files in this folder:
+
+REQUIRED:
+- favicon-16.png      (16×16 px)
+- favicon-32.png      (32×32 px)
+- icon-72.png         (72×72 px)   – PWA icon
+- icon-96.png         (96×96 px)   – PWA icon
+- icon-128.png        (128×128 px) – PWA icon
+- icon-144.png        (144×144 px) – PWA icon
+- icon-152.png        (152×152 px) – PWA icon
+- icon-192.png        (192×192 px) – PWA icon + Apple touch
+- icon-384.png        (384×384 px) – PWA icon
+- icon-512.png        (512×512 px) – PWA icon
+- og-image.jpg        (1200×630 px) – Open Graph / social share image
+- logo.png            (any size, transparent bg) – Schema logo
+
+OPTIONAL (for richer experience):
+- screenshot-home.jpg (1280×720 px) – PWA screenshot
+- hero-bg.webp        – Hero background image
+
+RECOMMENDED FREE IMAGE SOURCES:
+- Unsplash (unsplash.com) – search "Marrakech", "office", "documents"
+- Pexels (pexels.com)
+- Pixabay (pixabay.com)
+
+ICON GENERATION:
+Use https://realfavicongenerator.net/ to generate all icon sizes from one master image.
+
+BRAND COLORS:
+- Primary: #2D3561 (Slate Blue)
+- Accent:  #C9A84C (Moroccan Gold)
+- BG:      #1A1A2E (Deep Navy)
