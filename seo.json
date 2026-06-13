@@ -1,0 +1,240 @@
+{
+  "site": {
+    "name": "Nevolyra",
+    "domain": "nevolyra.com",
+    "url": "https://nevolyra.com",
+    "tagline": "Écrivain Public Marrakech Guéliz",
+    "description": "Votre expert en rédaction administrative à Marrakech. Lettres officielles, traductions, CV, visa, mariage mixte. Service professionnel 7j/7 en 6 langues.",
+    "email": "salatrir@gmail.com",
+    "phone": "+212602321305",
+    "whatsapp": "https://wa.me/212602321305",
+    "address": {
+      "street": "Guéliz",
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "postalCode": "40000",
+      "lat": 31.6295,
+      "lng": -8.0000
+    },
+    "hours": {
+      "weekdays": "08:00-20:00",
+      "saturday": "08:00-20:00",
+      "sunday": "09:00-18:00"
+    },
+    "priceRange": "€€",
+    "rating": {
+      "value": 4.9,
+      "count": 127
+    }
+  },
+  "languages": {
+    "primary": "fr",
+    "supported": ["fr", "ar", "en", "es", "ru", "zh"],
+    "rtl": ["ar"]
+  },
+  "keywords": {
+    "fr": {
+      "primary": [
+        "écrivain public Marrakech",
+        "écrivain public Guéliz",
+        "rédaction administrative Marrakech",
+        "aide administrative Marrakech",
+        "traduction Marrakech"
+      ],
+      "secondary": [
+        "rédaction lettre officielle Marrakech",
+        "traducteur certifié Marrakech",
+        "CV professionnel Marrakech",
+        "demande visa Maroc",
+        "mariage mixte Marrakech",
+        "assistance administrative Guéliz",
+        "rédaction plainte Maroc",
+        "contrat bail Marrakech",
+        "carte séjour Maroc",
+        "apostille Maroc"
+      ],
+      "local": [
+        "écrivain public Guéliz Marrakech",
+        "écrivain public Hivernage",
+        "écrivain public Médina Marrakech",
+        "écrivain public Sidi Ghanem",
+        "rédacteur administratif Marrakech"
+      ]
+    },
+    "ar": {
+      "primary": [
+        "كاتب عمومي مراكش",
+        "كاتب عمومي جليز",
+        "كتابة الشكايات مراكش",
+        "كتابة الطلبات مراكش",
+        "ترجمة وثائق مراكش"
+      ],
+      "secondary": [
+        "مساعدة إدارية مراكش",
+        "تحرير رسائل رسمية مراكش",
+        "سيرة ذاتية احترافية مراكش",
+        "ملف تأشيرة المغرب",
+        "زواج مختلط مراكش",
+        "بطاقة إقامة المغرب",
+        "تصديق وثائق مراكش"
+      ]
+    },
+    "en": {
+      "primary": [
+        "Public Writer Marrakech",
+        "Administrative Assistance Marrakech",
+        "Document Translation Marrakech",
+        "administrative help Morocco",
+        "expat services Marrakech"
+      ],
+      "secondary": [
+        "official letter writing Marrakech",
+        "certified translator Marrakech",
+        "CV writing Morocco",
+        "visa application Morocco",
+        "mixed marriage Morocco"
+      ]
+    },
+    "es": {
+      "primary": [
+        "escritor público Marrakech",
+        "asistencia administrativa Marrakech",
+        "traducción documentos Marruecos",
+        "ayuda trámites Marrakech"
+      ]
+    }
+  },
+  "topicClusters": [
+    {
+      "name": "Écrivain Public Marrakech",
+      "pillarPage": "#services/assistance-administrative",
+      "clusterArticles": [
+        "#blog/ecrivain-public-marrakech",
+        "#blog/ecrivain-public-gueliz",
+        "#blog/services-administratifs-medina-marrakech",
+        "#blog/sidi-ghanem-services-administratifs",
+        "#blog/hivernage-quartier-services",
+        "#blog/expatries-marrakech-demarches"
+      ]
+    },
+    {
+      "name": "Rédaction Administrative",
+      "pillarPage": "#services/lettres-administratives",
+      "clusterArticles": [
+        "#blog/redaction-lettre-administrative-maroc",
+        "#blog/redaction-plainte-maroc",
+        "#blog/lettre-motivation-emploi-maroc",
+        "#blog/courrier-arabe-officiel"
+      ]
+    },
+    {
+      "name": "Traduction Marrakech",
+      "pillarPage": "#services/traduction",
+      "clusterArticles": [
+        "#blog/traduction-documents-marrakech",
+        "#blog/traduction-arabe-francais-marrakech",
+        "#blog/traducteur-anglais-marrakech",
+        "#blog/traduction-espagnol-francais-marrakech",
+        "#blog/traduction-russe-francais-marrakech",
+        "#blog/traduction-chinois-francais-marrakech"
+      ]
+    },
+    {
+      "name": "Visa Maroc",
+      "pillarPage": "#services/visa",
+      "clusterArticles": [
+        "#blog/demande-visa-europe-maroc",
+        "#blog/visa-canada-maroc",
+        "#blog/visa-usa-maroc",
+        "#blog/regroupement-familial-maroc"
+      ]
+    },
+    {
+      "name": "Services Étrangers Maroc",
+      "pillarPage": "#services/etrangers-maroc",
+      "clusterArticles": [
+        "#blog/carte-sejour-etranger-maroc",
+        "#blog/expatries-marrakech-demarches",
+        "#blog/immatriculation-consulaire-maroc",
+        "#blog/mariage-mixte-maroc-procedures"
+      ]
+    },
+    {
+      "name": "CV et Emploi Marrakech",
+      "pillarPage": "#services/cv",
+      "clusterArticles": [
+        "#blog/cv-professionnel-marrakech",
+        "#blog/lettre-motivation-emploi-maroc",
+        "#blog/lettre-recommandation-maroc",
+        "#blog/attestation-travail-maroc"
+      ]
+    }
+  ],
+  "internalLinking": {
+    "strategy": "topic_cluster",
+    "rules": [
+      "Every blog article links to its pillar service page",
+      "Every service page links to 3 related blog articles",
+      "Home page links to all 6 pillar pages",
+      "Each article links to 3 related articles in the same cluster",
+      "FAQ page links to relevant service pages",
+      "Every page contains WhatsApp CTA"
+    ]
+  },
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "ProfessionalService",
+      "WebSite",
+      "WebPage",
+      "BlogPosting",
+      "Service",
+      "FAQPage",
+      "Review",
+      "AggregateRating",
+      "BreadcrumbList",
+      "ContactPage"
+    ]
+  },
+  "coreWebVitals": {
+    "lcp_target": "< 2.5s",
+    "fid_target": "< 100ms",
+    "cls_target": "< 0.1",
+    "optimizations": [
+      "Font preloading with font-display: swap",
+      "CSS inlined for critical path",
+      "Images with explicit width/height",
+      "No layout shift from fonts (size-adjust)",
+      "Deferred non-critical JavaScript",
+      "Service Worker caching",
+      "Minimal render-blocking resources"
+    ]
+  },
+  "localSEO": {
+    "napConsistency": {
+      "name": "Nevolyra – Écrivain Public Marrakech Guéliz",
+      "address": "Guéliz, Marrakech 40000, Maroc",
+      "phone": "+212602321305"
+    },
+    "targetAreas": [
+      "Marrakech",
+      "Guéliz",
+      "Hivernage",
+      "Médina",
+      "Sidi Ghanem",
+      "Palmeraie",
+      "Marrakech-Safi",
+      "Morocco"
+    ],
+    "googleBusinessProfile": {
+      "category": "Écrivain public",
+      "additionalCategories": [
+        "Service de traduction",
+        "Service administratif",
+        "Agence de rédaction"
+      ]
+    }
+  }
+}

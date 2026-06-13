@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ── MAIN PAGES ── -->
+  <url>
+    <loc>https://nevolyra.com/</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nevolyra.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://nevolyra.com/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nevolyra.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nevolyra.com/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://nevolyra.com/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://nevolyra.com/?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nevolyra.com/"/>
+  </url>
+  <url>
+    <loc>https://nevolyra.com/#services</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://nevolyra.com/#blog</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://nevolyra.com/#faq</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://nevolyra.com/#testimonials</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nevolyra.com/#contact</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ── SERVICE PAGES ── -->
+  <url><loc>https://nevolyra.com/#services/lettres-administratives</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/demandes</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/plaintes</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/traduction</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/cv</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/lettres-motivation</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/assistance-administrative</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/preparation-dossiers</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/visa</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/contrats</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/correction</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nevolyra.com/#services/saisie-mise-en-page</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nevolyra.com/#services/etrangers-maroc</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/mariage-mixte</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://nevolyra.com/#services/documents-marocains</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+
+  <!-- ── FRENCH BLOG ARTICLES ── -->
+  <url><loc>https://nevolyra.com/#blog/ecrivain-public-marrakech</loc><lastmod>2024-11-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nevolyra.com/#blog/ecrivain-public-gueliz</loc><lastmod>2024-11-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nevolyra.com/#blog/redaction-lettre-administrative-maroc</loc><lastmod>2024-11-05</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/traduction-documents-marrakech</loc><lastmod>2024-11-07</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/cv-professionnel-marrakech</loc><lastmod>2024-11-09</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/demande-visa-europe-maroc</loc><lastmod>2024-11-11</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/mariage-mixte-maroc-procedures</loc><lastmod>2024-11-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/carte-sejour-etranger-maroc</loc><lastmod>2024-11-15</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/aide-administrative-marrakech</loc><lastmod>2024-11-17</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/redaction-plainte-maroc</loc><lastmod>2024-11-19</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/lettre-motivation-emploi-maroc</loc><lastmod>2024-11-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/apostille-legalisations-maroc</loc><lastmod>2024-11-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/services-administratifs-medina-marrakech</loc><lastmod>2024-11-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/contrat-bail-maroc-redaction</loc><lastmod>2024-11-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/expatries-marrakech-demarches</loc><lastmod>2024-11-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/acte-naissance-maroc</loc><lastmod>2024-12-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/traduction-arabe-francais-marrakech</loc><lastmod>2024-12-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/sidi-ghanem-services-administratifs</loc><lastmod>2024-12-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/casier-judiciaire-maroc</loc><lastmod>2024-12-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/hivernage-quartier-services</loc><lastmod>2024-12-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- ── ARABIC BLOG ARTICLES ── -->
+  <url><loc>https://nevolyra.com/#blog/katib-umumi-marrakech</loc><lastmod>2024-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nevolyra.com/#blog/katib-umumi-juliz</loc><lastmod>2024-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nevolyra.com/#blog/kitabat-shakawy-maghrib</loc><lastmod>2024-11-06</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/kitabat-talab-idari</loc><lastmod>2024-11-08</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/tarjamat-wathaiq-marrakech</loc><lastmod>2024-11-10</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/talab-tashira-maghrib</loc><lastmod>2024-11-12</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/sira-dhatia-ihtirafia</loc><lastmod>2024-11-14</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/risalat-tahfiz-amal</loc><lastmod>2024-11-16</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/zawaj-mukhtalit-maghrib</loc><lastmod>2024-11-18</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/bitaqat-iqama-ajanib</loc><lastmod>2024-11-20</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── ENGLISH BLOG ARTICLES ── -->
+  <url><loc>https://nevolyra.com/#blog/public-writer-marrakech</loc><lastmod>2024-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nevolyra.com/#blog/administrative-assistance-marrakech</loc><lastmod>2024-11-06</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/document-translation-marrakech</loc><lastmod>2024-11-10</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/visa-application-marrakech</loc><lastmod>2024-11-14</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/cv-writing-marrakech</loc><lastmod>2024-11-18</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/mixed-marriage-morocco</loc><lastmod>2024-11-22</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/residence-card-morocco</loc><lastmod>2024-11-26</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/official-letters-morocco</loc><lastmod>2024-11-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/legal-docs-morocco</loc><lastmod>2024-12-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/moroccan-docs-guide</loc><lastmod>2024-12-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- ── SPANISH BLOG ARTICLES ── -->
+  <url><loc>https://nevolyra.com/#blog/escritor-publico-marrakech</loc><lastmod>2024-11-03</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/servicios-administrativos-marrakech</loc><lastmod>2024-11-07</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://nevolyra.com/#blog/traduccion-documentos-marrakech</loc><lastmod>2024-11-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/matrimonio-mixto-marruecos</loc><lastmod>2024-11-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nevolyra.com/#blog/visado-marruecos</loc><lastmod>2024-11-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+</urlset>
